@@ -11,7 +11,7 @@ A **contact management application** developed with [Vaadin](https://vaadin.com/
 - **Data Management**: Use JSON files for storing and managing contact data.
 
 ## Technologies
-- **Java**: The primary programming language.
+- **Java**: The primary programming language. Literally no JS as the Languages of the Repo says.
 - **Vaadin Framework**: For modern UI development.
 - **Maven**: For build and dependency management.
 - **JSON**: For data storage and retrieval.
