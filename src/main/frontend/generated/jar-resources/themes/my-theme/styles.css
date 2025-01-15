@@ -1,0 +1,30 @@
+/* Hintergrundfarbe */
+:root {
+    --lumo-body-background-color: rgba(240, 240, 240, 0.42); /* Hellgrau */
+    --lumo-primary-color: #4caf50; /* Grün */
+    --lumo-secondary-color: #ff9800; /* Orange */
+    --lumo-font-family: 'Arial', sans-serif; /* Anpassung der Schriftart */
+    --lumo-border-radius: 8px; /* Runde Ecken */
+    --lumo-space-m: 24px; /* Abstände für zentrierte Buttons */
+}
+
+/* Buttons stylen */
+vaadin-button {
+    font-size: var(--lumo-font-size-l);
+    border-radius: var(--lumo-border-radius);
+}
+
+/* TextField-Anpassung */
+vaadin-text-field {
+    --lumo-primary-color: #4caf50; /* Primärfarbe auf Input-Focus */
+    --lumo-text-color: #333333; /* Dunkelgrauer Text */
+}
+
+/* Zentrierung für alle Layouts */
+.center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}

@@ -1,0 +1,90 @@
+:host {
+    background-color: rgba(211, 211, 211, 0.58);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.callview-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.call-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.number-field {
+    width: 300px;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.keypad {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.keypad-button {
+    width: 60px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    background-color: #e0e0e0;
+    border-radius: 50%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    transition: all 0.2s ease-in-out;
+}
+
+.keypad-button:hover {
+    background-color: #c0c0c0;
+    cursor: pointer;
+}
+
+.keypad-button.special {
+    background-color: #a0a0a0;
+    color: white;
+}
+
+.keypad-button.special:hover {
+    background-color: #808080;
+}
+
+.call-button {
+    margin-top: 30px;
+    width: 80px;
+    height: 80px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    background-color: #4caf50;
+    border-radius: 50%;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.2s ease-in-out;
+}
+
+.call-button:hover {
+    background-color: #45a049;
+    cursor: pointer;
+}

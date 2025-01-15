@@ -1,0 +1,89 @@
+[ {
+  "firstName" : "Emma",
+  "lastName" : "Schneider",
+  "email" : "emma.schneider@example.com",
+  "phone" : "+41 78 123 4567",
+  "department" : "Human Resources",
+  "supervisor" : "Lukas Müller",
+  "position" : "HR Specialist",
+  "branch" : "Zürich",
+  "entryDate" : "2022-04-01",
+  "fullName" : "Emma Schneider"
+}, {
+  "firstName" : "Noah",
+  "lastName" : "Meier",
+  "email" : "noah.meier@example.com",
+  "phone" : "+41 79 987 6543",
+  "department" : "Finance",
+  "supervisor" : "Sophia Weber",
+  "position" : "Financial Analyst",
+  "branch" : "Bern",
+  "entryDate" : "2020-11-15",
+  "fullName" : "Noah Meier"
+}, {
+  "firstName" : "Liam",
+  "lastName" : "Hofmann",
+  "email" : "liam.hofmann@example.com",
+  "phone" : "+41 76 234 5678",
+  "department" : "IT",
+  "supervisor" : "Elena Fischer",
+  "position" : "Software Engineer",
+  "branch" : "Basel",
+  "entryDate" : "2021-09-01",
+  "fullName" : "Liam Hofmann"
+}, {
+  "firstName" : "Mia",
+  "lastName" : "Baumann",
+  "email" : "mia.baumann@example.com",
+  "phone" : "+41 77 456 7890",
+  "department" : "Marketing",
+  "supervisor" : "Jan Keller",
+  "position" : "Marketing Coordinator",
+  "branch" : "Genf",
+  "entryDate" : "2019-06-30",
+  "fullName" : "Mia Baumann"
+}, {
+  "firstName" : "Ben",
+  "lastName" : "Kunz",
+  "email" : "ben.kunz@example.com",
+  "phone" : "+41 75 678 9012",
+  "department" : "Customer Support",
+  "supervisor" : "Nina Frei",
+  "position" : "Support Specialist",
+  "branch" : "Lausanne",
+  "entryDate" : "2023-01-10",
+  "fullName" : "Ben Kunz"
+}, {
+  "firstName" : "Basil",
+  "lastName" : "Ramseyer",
+  "email" : "ramsebasil8@gmail.com",
+  "phone" : "+41 79 849 48 95",
+  "department" : "IT",
+  "supervisor" : "Leon Lüthi",
+  "position" : "Lernender",
+  "branch" : "Liestal",
+  "entryDate" : "01.08.23",
+  "fullName" : "Basil Ramseyer"
+}, {
+  "firstName" : "Nikola",
+  "lastName" : "Hadzic",
+  "email" : "niki@niki.com",
+  "phone" : "+41 79 12 345 67 89",
+  "department" : "IT",
+  "supervisor" : "Basil Ramseyer",
+  "position" : "Knecht",
+  "branch" : "Basel",
+  "entryDate" : "2025-01-21",
+  "fullName" : "Nikola Hadzic"
+}, {
+  "firstName" : "Leandrr",
+  "lastName" : "AEBI",
+  "email" : "le.ae@blkb.cn",
+  "phone" : "+591872308213",
+  "department" : "CHEF",
+  "supervisor" : "rr",
+  "position" : "CHEF",
+  "branch" : "Liestal",
+  "entryDate" : "2022-08-01",
+  "fullName" : "Leandrr AEBI"
+} ]
