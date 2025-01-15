@@ -53,37 +53,4 @@
   "branch" : "Lausanne",
   "entryDate" : "2023-01-10",
   "fullName" : "Ben Kunz"
-}, {
-  "firstName" : "Basil",
-  "lastName" : "Ramseyer",
-  "email" : "ramsebasil8@gmail.com",
-  "phone" : "+41 79 849 48 95",
-  "department" : "IT",
-  "supervisor" : "Leon Lüthi",
-  "position" : "Lernender",
-  "branch" : "Liestal",
-  "entryDate" : "01.08.23",
-  "fullName" : "Basil Ramseyer"
-}, {
-  "firstName" : "Nikola",
-  "lastName" : "Hadzic",
-  "email" : "niki@niki.com",
-  "phone" : "+41 79 12 345 67 89",
-  "department" : "IT",
-  "supervisor" : "Basil Ramseyer",
-  "position" : "Knecht",
-  "branch" : "Basel",
-  "entryDate" : "2025-01-21",
-  "fullName" : "Nikola Hadzic"
-}, {
-  "firstName" : "Leandrr",
-  "lastName" : "AEBI",
-  "email" : "le.ae@blkb.cn",
-  "phone" : "+591872308213",
-  "department" : "CHEF",
-  "supervisor" : "rr",
-  "position" : "CHEF",
-  "branch" : "Liestal",
-  "entryDate" : "2022-08-01",
-  "fullName" : "Leandrr AEBI"
 } ]
