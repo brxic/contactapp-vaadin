@@ -1,4 +1,17 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
+# Java-Dateien berücksichtigen
 *.java linguist-detectable=true
-*.js linguist-detectable=false
+
+# TypeScript-Dateien berücksichtigen
+*.ts linguist-detectable=true
+
+# CSS-Dateien berücksichtigen
+*.css linguist-detectable=true
+
+# Generierte oder zu ignorierende Dateien ausschließen
+node_modules/* linguist-vendored
+frontend/generated/* linguist-generated
+*.min.js linguist-vendored
+*.min.css linguist-vendored
+
