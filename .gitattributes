@@ -1,22 +1,22 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
-# Markiere den 'node_modules'-Ordner als vendorisiert, sodass er von der Analyse ausgeschlossen wird
+# Java priorisieren
+*.java linguist-detectable=true
+
+# TypeScript einbeziehen
+*.ts linguist-detectable=true
+
+# CSS einbeziehen
+*.css linguist-detectable=true
+
+# JavaScript ausschließen, falls es nur generiert wird
+*.js linguist-detectable=false
+
+# Generierte Dateien und Verzeichnisse ignorieren
 node_modules/* linguist-vendored
-
-# Markiere generierte Dateien im 'frontend/generated'-Ordner
 frontend/generated/* linguist-generated
-
-# Schließe minimierte JavaScript- und CSS-Dateien von der Analyse aus
 *.min.js linguist-vendored
 *.min.css linguist-vendored
 
-# Stelle sicher, dass Java-Dateien in die Analyse einbezogen werden
-*.java linguist-detectable=true
-
-# Stelle sicher, dass TypeScript-Dateien in die Analyse einbezogen werden
-*.ts linguist-detectable=true
-
-# Stelle sicher, dass CSS-Dateien in die Analyse einbezogen werden
-*.css linguist-detectable=true
 
 
