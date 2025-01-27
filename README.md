@@ -2,7 +2,7 @@
 
 A **contact management application** developed with [Vaadin](https://vaadin.com/). The application allows you to efficiently manage, add, and edit contacts.
 
-> **Note:** The project documentation and code comments are in German because this project was created as part of an assignment at an IT school in Germany/Switzerland.
+> **Note:** The project documentation and code comments are in German because this project was created as part of an assignment at an IT school in Switzerland.
 
 ## Features
 - **Add Contacts**: Save new contacts with names and details.
